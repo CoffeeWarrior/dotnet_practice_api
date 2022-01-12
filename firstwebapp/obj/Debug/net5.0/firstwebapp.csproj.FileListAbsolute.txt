@@ -1,0 +1,7 @@
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.csproj.AssemblyReference.cache
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.AssemblyInfoInputs.cache
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.AssemblyInfo.cs
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.csproj.CoreCompileInputs.cache
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lionl\source\repos\firstwebapp\firstwebapp\obj\Debug\net5.0\firstwebapp.MvcApplicationPartsAssemblyInfo.cache
